@@ -1,0 +1,16 @@
+body {
+    padding-top: 70px;
+    background-size: 100%;
+    background: url(../diana.jpg);
+}
+}
+
+.hidden {
+    display: none;
+}
+
+div.app-content{
+	background: white;
+	margin-top: 160px;
+	padding: 20px;
+}
